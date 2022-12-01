@@ -1,6 +1,0 @@
-C:\Users\aline\OneDrive - sluz\Dokumente\IMS\Sursee\2022_2023\Projekt_Molesweeper\Projekt_Molesweeper\obj\Debug\net6.0-windows\Projekt_Molesweeper.csproj.AssemblyReference.cache
-C:\Users\aline\OneDrive - sluz\Dokumente\IMS\Sursee\2022_2023\Projekt_Molesweeper\Projekt_Molesweeper\obj\Debug\net6.0-windows\Game.g.cs
-C:\Users\aline\OneDrive - sluz\Dokumente\IMS\Sursee\2022_2023\Projekt_Molesweeper\Projekt_Molesweeper\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Users\aline\OneDrive - sluz\Dokumente\IMS\Sursee\2022_2023\Projekt_Molesweeper\Projekt_Molesweeper\obj\Debug\net6.0-windows\App.g.cs
-C:\Users\aline\OneDrive - sluz\Dokumente\IMS\Sursee\2022_2023\Projekt_Molesweeper\Projekt_Molesweeper\obj\Debug\net6.0-windows\Projekt_Molesweeper_MarkupCompile.cache
-C:\Users\aline\OneDrive - sluz\Dokumente\IMS\Sursee\2022_2023\Projekt_Molesweeper\Projekt_Molesweeper\obj\Debug\net6.0-windows\Projekt_Molesweeper_MarkupCompile.lref
