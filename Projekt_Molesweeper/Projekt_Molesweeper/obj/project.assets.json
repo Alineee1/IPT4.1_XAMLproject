@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aline\\OneDrive - sluz\\Dokumente\\IMS\\Sursee\\2022_2023\\IPT 4.1\\Projekt_Molesweeper neu\\Projekt_Molesweeper\\Projekt_Molesweeper\\Projekt_Molesweeper.csproj",
+      "projectUniqueName": "C:\\Users\\aline\\OneDrive - sluz\\Dokumente\\IMS\\Sursee\\2022_2023\\IPT 4.1\\IPT4.1_XAMLproject\\Projekt_Molesweeper\\Projekt_Molesweeper\\Projekt_Molesweeper.csproj",
       "projectName": "Projekt_Molesweeper",
-      "projectPath": "C:\\Users\\aline\\OneDrive - sluz\\Dokumente\\IMS\\Sursee\\2022_2023\\IPT 4.1\\Projekt_Molesweeper neu\\Projekt_Molesweeper\\Projekt_Molesweeper\\Projekt_Molesweeper.csproj",
+      "projectPath": "C:\\Users\\aline\\OneDrive - sluz\\Dokumente\\IMS\\Sursee\\2022_2023\\IPT 4.1\\IPT4.1_XAMLproject\\Projekt_Molesweeper\\Projekt_Molesweeper\\Projekt_Molesweeper.csproj",
       "packagesPath": "C:\\Users\\aline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aline\\OneDrive - sluz\\Dokumente\\IMS\\Sursee\\2022_2023\\IPT 4.1\\Projekt_Molesweeper neu\\Projekt_Molesweeper\\Projekt_Molesweeper\\obj\\",
+      "outputPath": "C:\\Users\\aline\\OneDrive - sluz\\Dokumente\\IMS\\Sursee\\2022_2023\\IPT 4.1\\IPT4.1_XAMLproject\\Projekt_Molesweeper\\Projekt_Molesweeper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
