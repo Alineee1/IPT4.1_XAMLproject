@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projekt_Molesweeper_r3i5npqr_wpftmp
+build_property.ProjectDir = C:\Users\aline\OneDrive - sluz\Dokumente\IMS\Sursee\2022_2023\IPT 4.1\IPT4.1_XAMLproject\Projekt_Molesweeper\Projekt_Molesweeper\Projekt_Molesweeper\
